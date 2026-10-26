@@ -1,0 +1,16 @@
+{
+  "nev": "et-alakok.txt",
+  "nyelv": "et",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/et/et_EE.dic (sha cd1378434aefeaa8)",
+  "forras_aff": "nyers/nyelvek/et/et_EE.aff (sha 2fa53b7853762ec8)",
+  "licenc": "EKI Software License (szólista) + LGPL (Pruulmann affixek)",
+  "kodolas": "iso8859-15",
+  "flag_mod": "single",
+  "to": 282173,
+  "alak": 295826,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "4bba4abe0455aec423b9fdadae2ae4609f34b9f9c6f8b00614471d148f6cc51d"
+}

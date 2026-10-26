@@ -1,0 +1,30 @@
+{
+  "nev": "et-l1",
+  "nyelv": "et",
+  "mit": "NYELVI alaptabla: tagsag ∩ rangsor — tools/nyelvi_tabla.py",
+  "tagsag_forras": "nyers/nyelvek/et/et-alakok.txt (295826 kisbetus alak)",
+  "tagsag_licenc": "",
+  "rangsor_forras": "nyers/nyelvek/et/korpusz-et-leipzig.tsv (1710487 sor)",
+  "rangsor_licenc": "CC BY 4.0 (Leipzig Corpora Collection)",
+  "szabaly": "a rangsor-sor marad, ha a KISBETUS alakja a tagsagi halmazban van; eredeti kis/nagybetu es szam megy tovabb",
+  "tagsag_alak": "sima",
+  "tagsag_kodolas": "utf-8",
+  "tagsag_fejlec": 0,
+  "szokozos_tetel": "kihagy",
+  "szokozos_kihagyva": 0,
+  "nyers_sor": 378295,
+  "osszevont_tipus": 295817,
+  "nagybetus_sor": 93213,
+  "kiszurve_nem_tag": 1332192,
+  "token_ossz": 29559437,
+  "forras_sha256": "dc2c580dca29a5eeaccf4401e2f252be5fa59ad0f5ce006cf4468e3dc8a20514",
+  "szarmazas": "tagsag: et-alakok.txt; rangsor: korpusz-et-leipzig.tsv. Csak tipus->szam, korpuszszoveg nem kerul at.",
+  "forrasmegjeloles": "tagsag: ?; rangsor: CC BY 4.0 (Leipzig Corpora Collection)",
+  "forras_reszletek": {
+    "et-alakok.txt": "4bba4abe0455aec423b9fdadae2ae4609f34b9f9c6f8b00614471d148f6cc51d",
+    "korpusz-et-leipzig.tsv": "dc2c580dca29a5eeaccf4401e2f252be5fa59ad0f5ce006cf4468e3dc8a20514"
+  },
+  "parancs": "python3 tools/nyelvi_tabla.py --nyelv et --tagsag nyers/nyelvek/et/et-alakok.txt --tagsag-alak sima --tagsag-fejlec 0 --rangsor nyers/nyelvek/et/korpusz-et-leipzig.tsv --ki nyers/et-l1.tsv",
+  "sha256": "bb4333fabb8caf1ec75811b450058880b733bced922c72ce1071257146ae7eef",
+  "_megjegyzes": "Csak tipus->szam tabla. Szoveg, mondat, peldamondat NEM kerul ide (docs/licencek.md 6.1)."
+}
