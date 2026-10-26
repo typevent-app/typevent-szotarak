@@ -1,0 +1,16 @@
+{
+  "nev": "es-alakok.txt",
+  "nyelv": "es",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/es/es_ES.dic (sha 6975dddec3d5d2c6)",
+  "forras_aff": "nyers/nyelvek/es/es_ES.aff (sha e73a9bf8e1383f49)",
+  "licenc": "lásd a mappa LICENSE/README fájlját",
+  "kodolas": "utf-8",
+  "flag_mod": "UTF-8",
+  "to": 58221,
+  "alak": 659081,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "8306f2d3e11a033ed58e4669bf77d5e9fefe616dd621ae4bcdf5acaa497cc5e4"
+}
