@@ -1,0 +1,16 @@
+{
+  "nev": "sk-alakok.txt",
+  "nyelv": "sk",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/sk/sk_SK.dic (sha d23ea17501a1078f)",
+  "forras_aff": "nyers/nyelvek/sk/sk_SK.aff (sha 29af83949cbeb355)",
+  "licenc": "lásd a mappa LICENSE/README fájlját",
+  "kodolas": "utf-8",
+  "flag_mod": "single",
+  "to": 159547,
+  "alak": 2047042,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "fa8039bfd1b70a80431ff4667fcbf6545b39140328d7f8436fa8bed09efb8851"
+}
