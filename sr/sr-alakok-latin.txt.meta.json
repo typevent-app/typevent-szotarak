@@ -1,0 +1,17 @@
+{
+  "nev": "sr-alakok-latin.txt",
+  "nyelv": "sr",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/sr/sr-Latn.dic (sha a41302b3e707c7a3)",
+  "forras_aff": "nyers/nyelvek/sr/sr-Latn.aff (sha 9112fdbd53c8a20a)",
+  "licenc": "MPL 1.1 (hármas licenc) — lásd a mappa README_sr.txt fájlját",
+  "kodolas": "utf-8",
+  "flag_mod": "single",
+  "to": 263909,
+  "alak": 263906,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "4f31bafbd6d9591f33ece3ce02422777aacdb332d8a7e4ac8d044ed996d20c45",
+  "_megjegyzes": "H9/b, 2026-09-16: a tools/nyelvi_kibontas.py ÍRTA, a szállított fájlon bájtra reprodukálva (sha 4f31bafb…), majd ide másolva."
+}

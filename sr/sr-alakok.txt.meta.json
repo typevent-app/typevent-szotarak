@@ -1,0 +1,17 @@
+{
+  "nev": "sr-alakok.txt",
+  "nyelv": "sr",
+  "mit": "hunspell affix-kibontás + latin→cirill átírás — tools/nyelvi_kibontas.py ⇒ tools/nyelvi_atiras.py",
+  "forras_dic": "nyers/nyelvek/sr/sr-Latn.dic (sha a41302b3e707c7a3)",
+  "forras_aff": "nyers/nyelvek/sr/sr-Latn.aff (sha 9112fdbd53c8a20a)",
+  "koztes": "nyers/nyelvek/sr/sr-alakok-latin.txt (sha 4f31bafbd6d9591f)",
+  "licenc": "MPL 1.1 (hármas licenc) — lásd a mappa README_sr.txt fájlját",
+  "letoltve": "2026-09-13T14:19:33",
+  "url": "https://raw.githubusercontent.com/grakic/hunspell-sr/master/sr-Latn.dic",
+  "alak": 527812,
+  "alak_latin": 263906,
+  "alak_cirill": 263906,
+  "parancs": "python3 tools/nyelvi_kibontas.py --nyelv sr --dic nyers/nyelvek/sr/sr-Latn.dic --aff nyers/nyelvek/sr/sr-Latn.aff --ki nyers/nyelvek/sr/sr-alakok-latin.txt && python3 tools/nyelvi_atiras.py --be nyers/nyelvek/sr/sr-alakok-latin.txt --ki nyers/nyelvek/sr/sr-alakok.txt --mindketto",
+  "sha256": "ccbf2567501aca3ef41cb24e6854aaaa3f5dab4a3bb6e9e26f3dc5481d6b7111",
+  "_megjegyzes": "H9/b, 2026-09-16: a meta hiányzott, ezért a licenckapu a MAPPASZINTŰ ③ szintre esett vissza. A fenti két lépést külön mappában újrafuttattuk, és MINDKÉT kimenet BÁJTRA egyezik a szállítottal (4f31bafb… és ccbf2567…) — a recept tehát mérve van, nem emlékezetből írva."
+}
