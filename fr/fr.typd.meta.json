@@ -1,0 +1,33 @@
+{
+  "forras_tabla": "fr-l1e10.tsv",
+  "forras_dump_sha256": "2b1c5ffdc15bfb08cf9acfa75c2c600e37e57b5183f56a929fccbf692f55a55b",
+  "meret": 194590,
+  "bajt": 7127040,
+  "crc32": "0x447ca5c0",
+  "csomopont": 178729,
+  "bigram_forras": "korpusz-fr.bigram.tsv",
+  "bigram_forras_sha256": "5d24652ed75c6bdff3ecfef9cab9d271df59b60f718ad85a463c9f97261b9d83",
+  "bigram_kuszob": 10,
+  "bigram_korlat": 16,
+  "bigram_ekezetpar": false,
+  "bigram_sor": 21074,
+  "bigram_tetel": 158703,
+  "bigram_bajt": 1357900,
+  "keruloendo_forras": "keruloendo-fr.txt",
+  "keruloendo_jelolt": 58,
+  "generalt_forras": null,
+  "generalt_jelolt": 0,
+  "ekezethibas_forras": null,
+  "ekezethibas_beolvasva": 0,
+  "ekezethibas_kizart": 0,
+  "kisbetus_forras": null,
+  "kisbetus_jelolt": 0,
+  "sajat_korpusz_forras": null,
+  "ekezethibas_nem_talalt": [],
+  "al_verzio": 4,
+  "motor_kovetelmeny": {
+    "al_verzio_legalabb": 2
+  },
+  "szallithato": true,
+  "_megjegyzes": "A szallithato=false EGY dolgot jelent: a keruloendo jeloles nem futott le (M10). A keruloendo lista TARTALMA sehol nem szerepel, csak a darabszam. (A generalt alakok 2026-08-23 ota NEM tiltjak a szallitast: a motor olvassa a `generalt` bitet, es az autokorrekciobol kizarja — D14.)"
+}
