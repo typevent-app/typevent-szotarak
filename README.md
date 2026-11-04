@@ -20,7 +20,7 @@ In every folder:
 - the intermediate lists and their build records (`.meta.json`; where there is a `parancs` field, it is the command);
 - `README.md` — sources, licences, sha256 checksums, the recipe and what was changed.
 
-Built from TypEvent commit `f99d12b` (2026-10-25). To check the files: `shasum -a 256 -c SHA256SUMS.txt`.
+Built from TypEvent commit `a44916b5` (2026-11-04). To check the files: `shasum -a 256 -c SHA256SUMS.txt`.
 
 Questions, or a mistake in the credits: legal@typevent.app
 

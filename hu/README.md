@@ -21,7 +21,7 @@ We publish the exact files we used (MPL 2.0, section 3.2(a)), and for reference 
 | `hu.typd.gz` | 9066036 | `87f26f71f1577bd88906f2160720134efb784a5a83331281e31ba91a57469aec` | the dictionary file exactly as it ships in the app (binary); gzip-compressed for GitHub’s 25 MiB browser limit — unpacked, its sha256 is `fa89a15bed8c8d92f5f580b9c6c3176022b238364a58e371ec48f9e73fc286bd` |
 | `hu.typd.meta.json` | 1907 | `49cee54b3b817e79d80f3e803544e9e52702f3f08590db6102a6fcb740a8d862` | build record of the file above (JSON) |
 
-`hu.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/hu.typd` in TypEvent, commit `f99d12b`).
+`hu.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/hu.typd` in TypEvent, commit `a44916b5`).
 
 ## Recipe
 
