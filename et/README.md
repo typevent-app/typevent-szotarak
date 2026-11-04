@@ -25,7 +25,7 @@ The GNU LGPL asks that the files used and the files made from them be available,
 | `et.typd` | 10731520 | `6005053c20e6e526d42af4f2e02d9e71e68c989c7aae78bf90e78b994ad9c4c0` | the dictionary file exactly as it ships in the app (binary) |
 | `et.typd.meta.json` | 1225 | `23444020d1c7a5e3e9139f366e3264e7a4fed0f1f9cf51fdebc0d5f04a1413f6` | build record of the file above (JSON) |
 
-`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `f99d12b`).
+`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `a44916b5`).
 
 ## Recipe
 
@@ -42,7 +42,7 @@ The files in `source/` are not modified. The files made from them are filtered (
 ## Other data inside `et.typd`
 
 - Frequency ranking: Leipzig Corpora Collection, Universität Leipzig. Licence: CC BY 4.0. Only word counts, no text.
-- Everyday-speech frequency weights: OPUS — OpenSubtitles 2018 release. Only word frequencies, no text.
+- Everyday-speech frequency weights: OPUS — OpenSubtitles v2024 release, licence ODC-BY 1.0. Only word frequencies, no text.
 - Some words are marked so that the keyboard does not offer them on its own. That list itself is not published.
 
 ## Licence of this folder
