@@ -25,7 +25,7 @@ The Mozilla Public License 2.0 asks that the files used and the files made from 
 | `es.typd` | 7028736 | `11e0c7b7f5365eb165b6d377da829e26745ff1bf0546ae96fcaac3091e753769` | the dictionary file exactly as it ships in the app (binary) |
 | `es.typd.meta.json` | 1226 | `8d0dabc55d24bc5839b4b7dac5dcd3dd9a0dedd289f908fd067a6e83fb8e1092` | build record of the file above (JSON) |
 
-`es.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/es.typd` in TypEvent, commit `f99d12b`).
+`es.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/es.typd` in TypEvent, commit `a44916b5`).
 
 ## Recipe
 
@@ -42,7 +42,7 @@ The files in `source/` are not modified. The files made from them are filtered (
 ## Other data inside `es.typd`
 
 - Frequency ranking: Leipzig Corpora Collection, Universität Leipzig. Licence: CC BY 4.0. Only word counts, no text.
-- Everyday-speech frequency weights: OPUS — OpenSubtitles 2018 release. Only word frequencies, no text.
+- Everyday-speech frequency weights: OPUS — OpenSubtitles v2024 release, licence ODC-BY 1.0. Only word frequencies, no text.
 - Some words are marked so that the keyboard does not offer them on its own (partly from LDNOOBW — © 2012–2020 Shutterstock, Inc., licence CC BY 4.0). That list itself is not published.
 
 ## Licence of this folder
