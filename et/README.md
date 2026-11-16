@@ -22,10 +22,10 @@ The GNU LGPL asks that the files used and the files made from them be available,
 | `et-alakok.txt.meta.json` | 620 | `821a433bc2bae8eba09cf39e2f919a9d0d501b03be25adebb6ad603d3122cc42` | build record of the file above (JSON) |
 | `et-l1.tsv` | 4807106 | `bb4333fabb8caf1ec75811b450058880b733bced922c72ce1071257146ae7eef` | the word forms that also occur in the ranking corpus, with their counts (word, tab, count) |
 | `et-l1.tsv.meta.json` | 1642 | `b0fc12378174096a590a3cbe117a96b1343eb005f6184bb7bd808f4004be8a87` | build record of the file above (JSON) |
-| `et.typd` | 10731520 | `6005053c20e6e526d42af4f2e02d9e71e68c989c7aae78bf90e78b994ad9c4c0` | the dictionary file exactly as it ships in the app (binary) |
-| `et.typd.meta.json` | 1225 | `23444020d1c7a5e3e9139f366e3264e7a4fed0f1f9cf51fdebc0d5f04a1413f6` | build record of the file above (JSON) |
+| `et.typd` | 10715136 | `078a3f306cbb52bb24eb84d13f4db3da017c0cb806843a40a8fc9f17d3532d25` | the dictionary file exactly as it ships in the app (binary) |
+| `et.typd.meta.json` | 1225 | `235eb1dd355dba45523ad4b3112ad46ac6cc27b5095ae5ed7295f9cfe30aff78` | build record of the file above (JSON) |
 
-`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `a44916b5`).
+`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `a3b1e25c`).
 
 ## Recipe
 
