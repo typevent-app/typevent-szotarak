@@ -22,10 +22,10 @@ The Mozilla Public License 2.0 asks that the files used and the files made from 
 | `fr-alakok.txt.meta.json` | 588 | `0edd17bbe923923a07d8938c5e237348f65de4f4175e5205d75d8fa50a5007fa` | build record of the file above (JSON) |
 | `fr-l1.tsv` | 2368387 | `475c6e92af62304b99f3eea4694aa0fcbc930ba8751e8b5044f81580a40f3e24` | the word forms that also occur in the ranking corpus, with their counts (word, tab, count) |
 | `fr-l1.tsv.meta.json` | 1640 | `b6450ca78e58fe14ab82756d3d3dd3611e44a0aa9d49a94a486708973931bcfe` | build record of the file above (JSON) |
-| `fr.typd` | 7127040 | `794ecc8301cb13176c7282082a294c6fb51d94bd7f0c3350ef4dadd0c3948d0d` | the dictionary file exactly as it ships in the app (binary) |
-| `fr.typd.meta.json` | 1229 | `c758379568d813eada0608d8def850bf940670e59ed11559259c942976575b3e` | build record of the file above (JSON) |
+| `fr.typd` | 7110656 | `39153c432c734aef6c9b302d40be809e50a4d3b7a0b67b0a1c648e992f7afa08` | the dictionary file exactly as it ships in the app (binary) |
+| `fr.typd.meta.json` | 1229 | `ca5edb8812377411e01bf9945491993914527d2195abaadb15eabee191895b86` | build record of the file above (JSON) |
 
-`fr.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/fr.typd` in TypEvent, commit `a44916b5`).
+`fr.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/fr.typd` in TypEvent, commit `a3b1e25c`).
 
 ## Recipe
 
