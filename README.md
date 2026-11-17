@@ -10,6 +10,7 @@ The TypEvent app itself is not open source. Its code is not here, and these lice
 | [`et/`](et/) | Estonian | LibreOffice et_EE — word list by the Eesti Keele Instituut, affix rules by Jaak Pruulmann | LGPL |
 | [`fr/`](fr/) | French | Grammalecte dictionary — Olivier R. and contributors | MPL |
 | [`hu/`](hu/) | Hungarian | Magyar Ispell (Hunspell hu_HU) — László Németh and Ferenc Godó | MPL |
+| [`it/`](it/) | Italian | Morph-it! 0.48 — Marco Baroni and Eros Zanchetta | LGPL, CC BY-SA |
 | [`sk/`](sk/) | Slovak | sk-spell (hunspell-sk) | MPL |
 | [`sr/`](sr/) | Serbian | dict-sr (hunspell-sr) — Goran Rakić and contributors | MPL |
 
@@ -20,7 +21,7 @@ In every folder:
 - the intermediate lists and their build records (`.meta.json`; where there is a `parancs` field, it is the command);
 - `README.md` — sources, licences, sha256 checksums, the recipe and what was changed.
 
-Built from TypEvent commit `a44916b5` (2026-11-04). To check the files: `shasum -a 256 -c SHA256SUMS.txt`.
+Built from TypEvent commit `a3b1e25c` (2026-11-16). To check the files: `shasum -a 256 -c SHA256SUMS.txt`.
 
 Questions, or a mistake in the credits: legal@typevent.app
 
@@ -28,4 +29,4 @@ Questions, or a mistake in the credits: legal@typevent.app
 
 ## Magyarul
 
-Ez a tár a TypEvent iOS-billentyűzet azon szótárfájljait tartalmazza, amelyek MPL 2.0 vagy LGPL licencű forrás felhasználásával készültek: spanyol (`es/`), észt (`et/`), francia (`fr/`), magyar (`hu/`), szlovák (`sk/`), szerb (`sr/`). Mellettük a felhasznált forrásfájlok változatlanul, és a recept. A TypEvent forráskódja nincs itt.
+Ez a tár a TypEvent iOS-billentyűzet azon szótárfájljait tartalmazza, amelyek MPL 2.0 vagy LGPL licencű forrás felhasználásával készültek: spanyol (`es/`), észt (`et/`), francia (`fr/`), magyar (`hu/`), olasz (`it/`), szlovák (`sk/`), szerb (`sr/`). Mellettük a felhasznált forrásfájlok változatlanul, és a recept. A TypEvent forráskódja nincs itt.
