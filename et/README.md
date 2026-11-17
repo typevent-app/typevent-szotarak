@@ -25,7 +25,7 @@ The GNU LGPL asks that the files used and the files made from them be available,
 | `et.typd` | 10715136 | `078a3f306cbb52bb24eb84d13f4db3da017c0cb806843a40a8fc9f17d3532d25` | the dictionary file exactly as it ships in the app (binary) |
 | `et.typd.meta.json` | 1225 | `235eb1dd355dba45523ad4b3112ad46ac6cc27b5095ae5ed7295f9cfe30aff78` | build record of the file above (JSON) |
 
-`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `a3b1e25c`).
+`et.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/et.typd` in TypEvent, commit `27f4b788`).
 
 ## Recipe
 

@@ -1,0 +1,30 @@
+{
+  "nev": "lv-l1",
+  "nyelv": "lv",
+  "mit": "NYELVI alaptabla: tagsag ∩ rangsor — tools/nyelvi_tabla.py",
+  "tagsag_forras": "nyers/nyelvek/lv/kimenet2/tagsag-lv.txt (10407340 kisbetus alak)",
+  "tagsag_licenc": "CC BY-SA 4.0 (Tezaurs.lv 2026: ispell + wordforms_tei orth, CLARIN-LV)",
+  "rangsor_forras": "nyers/nyelvek/lv/kimenet1/korpusz-lv-leipzig-szurt.tsv (792607 sor)",
+  "rangsor_licenc": "CC BY 4.0 (Leipzig Corpora Collection)",
+  "szabaly": "a rangsor-sor marad, ha a KISBETUS alakja a tagsagi halmazban van; eredeti kis/nagybetu es szam megy tovabb",
+  "tagsag_alak": "sima",
+  "tagsag_kodolas": "utf-8",
+  "tagsag_fejlec": 0,
+  "szokozos_tetel": "kihagy",
+  "szokozos_kihagyva": 16,
+  "nyers_sor": 412870,
+  "osszevont_tipus": 331141,
+  "nagybetus_sor": 103741,
+  "kiszurve_nem_tag": 379737,
+  "token_ossz": 28140155,
+  "forras_sha256": "4333d2574cc9f092cc74b894e8123e86d79c10b137eca06f8e2be2688eb5a387",
+  "szarmazas": "tagsag: tagsag-lv.txt; rangsor: korpusz-lv-leipzig-szurt.tsv. Csak tipus->szam, korpuszszoveg nem kerul at.",
+  "forrasmegjeloles": "tagsag: CC BY-SA 4.0 (Tezaurs.lv 2026: ispell + wordforms_tei orth, CLARIN-LV); rangsor: CC BY 4.0 (Leipzig Corpora Collection)",
+  "forras_reszletek": {
+    "tagsag-lv.txt": "5d555618be049a939d1ae91a37d3130f510f3a99da72265d514c10e7e532d484",
+    "korpusz-lv-leipzig-szurt.tsv": "4333d2574cc9f092cc74b894e8123e86d79c10b137eca06f8e2be2688eb5a387"
+  },
+  "parancs": "python3 tools/nyelvi_tabla.py --nyelv lv --tagsag nyers/nyelvek/lv/kimenet2/tagsag-lv.txt --tagsag-alak sima --tagsag-fejlec 0 --rangsor nyers/nyelvek/lv/kimenet1/korpusz-lv-leipzig-szurt.tsv --ki nyers/nyelvek/lv/kimenet2/lv-l1.tsv",
+  "sha256": "449ab59bb19f701ecc789a9dd6a848f5d228708230978f7fc3954bb13605ad9a",
+  "_megjegyzes": "Csak tipus->szam tabla. Szoveg, mondat, peldamondat NEM kerul ide (docs/licencek.md 6.1)."
+}

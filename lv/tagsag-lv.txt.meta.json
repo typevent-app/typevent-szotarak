@@ -1,0 +1,18 @@
+{
+ "nev": "tagsag-lv.txt",
+ "nyelv": "lv",
+ "mit": "lett tagsagi lista: a Tezaurs ispell alaklistaja UNIO a wordforms_tei <orth> mezoje (NFC, szokozos nelkul), sort -u",
+ "forras_dic": "nyers/nyelvek/lv/tezaurs_2026_04.ispell.zip",
+ "forras": "nyers/nyelvek/lv/teljes/tezaurs_2026_4_wordforms_tei.xml.zip",
+ "forras_sha256": {
+  "tezaurs_2026_04.ispell.zip": "e45d6cdd860a4f095c5d6eace2c1ac9b2b065df6621999adbacb78b9125dd984",
+  "tezaurs_2026_04.ispell (kibontva)": "b6c5967906cb43957c58697b42cb184e52f4850d15a55553148da5acebc628f8",
+  "tezaurs_2026_4_wordforms_tei.xml.zip": "22e2f6d9acd330150d57e324a7a9f54272da8e09e262aa5ba46cc536150f9e10",
+  "tezaurs-orth.txt (kozbulso)": "8a0cfa0f973bffeeda2550e431e35e0aadd2aea44e04f130229c5fb07d78e5fb"
+ },
+ "licenc": "CC BY-SA 4.0 (Tezaurs.lv 2026, AiLab IMCS UL; docs/licencek.md L46)",
+ "eszkoz": "nyers/nyelvek/lv/lett_orth.py, majd: cat tezaurs_2026_04.ispell tezaurs-orth.txt | sort -u",
+ "alak": 10414661,
+ "sha256": "5d555618be049a939d1ae91a37d3130f510f3a99da72265d514c10e7e532d484",
+ "_megjegyzes": "A forras_dic kulcs a licenckapu forrasfajlok() mezoje; itt az ispell zip all benne, nem hunspell .dic."
+}

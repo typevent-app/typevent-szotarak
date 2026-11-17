@@ -1,0 +1,6 @@
+# Ékezethibás alakok — a konverter --ekezethibas kapcsolójához (a listás alak kimarad a táblából).
+# Előállító: tools/nyelvi_ekezethibas.py; a szabály a fejlécében. Kézzel nem szerkesztendő.
+# alak  # → az ékezetes lemma · az alak száma / a lemma száma a táblában
+piu  # → più · 1152 / 235608
+cosi  # → così · 701 / 58345
+perche  # → perché · 399 / 59599

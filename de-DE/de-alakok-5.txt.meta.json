@@ -1,0 +1,21 @@
+{
+  "nev": "de-alakok-5.txt",
+  "nyelv": "de",
+  "mit": "nemet tagsagi lista: Wikidata Q188 + german-nouns + UniMorph deu + kaikki pron/det/article + generalt melleknevalakok, a farok-szabaly utan (NEMET ADAT 1-6)",
+  "forras_dic": "nyers/nyelvek/de/german-nouns.csv (sha 7b34ca76bb753fa5)",
+  "forras_aff": "nyers/nyelvek/de/unimorph-deu.tsv (sha 8bc98487e3caf861)",
+  "forras": "nyers/nyelvek/_wikidata/latest-lexemes.json.bz2 (sha 1911de77d3c6ca2a)",
+  "forras_tovabbi": {
+    "nyers/nyelvek/de/kaikki-2026-11-14/kaikki.org-dictionary-German-by-pos-pron.jsonl": "fbea453a646454660393aed02b18c6cb163cd2fae6a9cb4190b9b4efcc9a1fb9",
+    "nyers/nyelvek/de/kaikki-2026-11-14/kaikki.org-dictionary-German-by-pos-det.jsonl": "a5f34c5dd722bc820106b0ce8f0e6cef31156c0d3ecec345ec1a8f633f2571ca",
+    "nyers/nyelvek/de/kaikki-2026-11-14/kaikki.org-dictionary-German-by-pos-article.jsonl": "3175325bf5a0e1f5c0254919e9e14b3e95d1d5ea0dd528a4577723fd6c0bde0a",
+    "nyers/nyelvek/de/kimenet4/generalt-de.txt": "f8001524445ac06ba238b0e06b031b9c91b5103e4c4d0af42f06fb4be0bb11ab",
+    "nyers/nyelvek/de/wikidata/wikidata-de-sorok.tsv": "2469cb43b220963c344105f4f9a5f9463727035aa65a645a1bdeeb16508ca6c2"
+  },
+  "licenc": "CC0 (Wikidata) + CC BY-SA 4.0 (german-nouns; Wiktionary/kaikki: CC BY-SA 4.0 + GFDL) + CC BY-SA 3.0 (UniMorph deu); a kimenet CC BY-SA 4.0",
+  "recept": "docs/meres/nyelvek/nemet-elore-rogzitve.md, nemet-melleknev-elore-rogzitve.md (NEMET ADAT 1-6); eszkozok: nyers/nyelvek/de/eszkozok/",
+  "alak": 860388,
+  "kisbetus_alak": 850398,
+  "sha256": "549e46559d4a4323aacc719910b475ed5847d6752675448b1e7e7e6980660ceb",
+  "_megjegyzes": "A licenc_kapu.py csak a forras_dic / forras_aff / forras kulcsot olvassa: ezekben all a harom naplozott letoltes (a kulcsnev itt nem dic/aff-ot jelent). A kaikki-reszfajlok es a generalt lista a forras_tovabbi alatt."
+}

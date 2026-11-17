@@ -1,0 +1,31 @@
+{
+ "nev": "kisbetus-lv.txt",
+ "nyelv": "lv",
+ "eszkoz": "tools/nyelvi_kisbetus.py (--rang 20000 --arany 0.50 --min 20), majd nyers/nyelvek/lv/lett_merce.py kisbetus (szukites: csak kisbetus Tezaurs-alak; ellenorzes a felretett mercen)",
+ "tabla": "nyers/nyelvek/lv/kimenet1/lv-l1.tsv",
+ "tabla_sha256": "26e3e93dbd2cf5fcb46fa48eba99741dbdbd740c253213c637bd945fc0f5c296",
+ "mondatok": [
+  {
+   "ut": "nyers/nyelvek/lv/kimenet1/szurt/szurt-lav-lv_web_2020_1M-sentences.txt",
+   "sha256": "5be77ead8fc8d2fe2e0def0fb1f8c4436533c75da09e1e9b34672f2b8a43b338"
+  },
+  {
+   "ut": "nyers/nyelvek/lv/kimenet1/szurt/szurt-lav_newscrawl_2016_1M-sentences.txt",
+   "sha256": "a1d666152b0dcb383e5eeb8e757eb5fd675ca6b3aa7f754f29fd6fa6f7c07452"
+  }
+ ],
+ "tagsag": "nyers/nyelvek/lv/tezaurs/tezaurs_2026_04.ispell",
+ "tagsag_sha256": "b6c5967906cb43957c58697b42cb184e52f4850d15a55553148da5acebc628f8",
+ "jelolt": "nyers/nyelvek/lv/kimenet1/kisbetus-x50-jelolt.txt",
+ "jelolt_sha256": "ce9bd5cb981778dc28f15cec6c18437006a769a23ac220fadb38b5ab0fd75df1",
+ "licenc": "a korpusz mondatai: CC BY 4.0 (Leipzig Corpora Collection, L49); a kisbetus/nagybetus alak: CC BY-SA 4.0 (Tezaurs.lv 2026, L46)",
+ "szabaly": "docs/meres/nyelvek/lett-elore-rogzitve.md 2. pont",
+ "merce_ellenorzes": {
+  "kozbeni": 129,
+  "kisbetus": 128,
+  "a": true,
+  "b_bukok": 0
+ },
+ "alak": 13,
+ "sha256": "16cc9e5d0eaf4e00989fadc6649e3a957faa3a1e79b3abf424cb298884c4b3ca"
+}

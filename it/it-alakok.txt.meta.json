@@ -1,0 +1,12 @@
+{
+  "nev": "it-alakok.txt",
+  "nyelv": "it",
+  "mit": "a Morph-it! 0.48 alaklistajanak ELSO oszlopa (az alak), ISO-8859-1 -> UTF-8, egyedi sorok; kezzel irt meta (OLASZ ADAT, 2026-11-11)",
+  "forras": "nyers/nyelvek/it/morph-it.tgz (sha b137343dc095e038; benne current_version/morph-it_048.txt, sha 705da3220c8b7daf)",
+  "licenc": "CC BY-SA 2.0 vagy LGPL valaszthato (readme-morph-it.txt:326-329, dual-licensed; a CC BY-SA 2.0 agat valasztjuk)",
+  "kodolas": "a forras iso8859-1 (merve: utf-8-kent a 853. bajton elszall, 0x80-0x9f bajt nincs), a kimenet utf-8",
+  "forras_sor": 505074,
+  "alak": 405401,
+  "parancs": "iconv -f ISO-8859-1 -t UTF-8 nyers/nyelvek/it/current_version/morph-it_048.txt | cut -f1 | LC_ALL=C sort -u > nyers/nyelvek/it/it-alakok.txt",
+  "sha256": "72e5d4750176086814347d0aa58bb72e65a154840ff6b3de049514d131f5d9d8"
+}

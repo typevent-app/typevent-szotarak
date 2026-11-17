@@ -1,0 +1,30 @@
+{
+  "nev": "de-l1",
+  "nyelv": "de",
+  "mit": "NYELVI alaptabla: tagsag ∩ rangsor — tools/nyelvi_tabla.py",
+  "tagsag_forras": "nyers/nyelvek/de/kimenet5/de-alakok-5.txt (850398 kisbetus alak)",
+  "tagsag_licenc": "CC0 (Wikidata) + CC BY-SA 4.0 (german-nouns, Wiktionary/kaikki) + CC BY-SA 3.0 (UniMorph deu); generalt melleknevalakok (szabaly)",
+  "rangsor_forras": "nyers/nyelvek/de/kimenet1/korpusz-de-leipzig-szurt.tsv (1296953 sor)",
+  "rangsor_licenc": "CC BY (Leipzig)",
+  "szabaly": "a rangsor-sor marad, ha a KISBETUS alakja a tagsagi halmazban van; eredeti kis/nagybetu es szam megy tovabb",
+  "tagsag_alak": "sima",
+  "tagsag_kodolas": "utf-8",
+  "tagsag_fejlec": 0,
+  "szokozos_tetel": "kihagy",
+  "szokozos_kihagyva": 0,
+  "nyers_sor": 325017,
+  "osszevont_tipus": 291002,
+  "nagybetus_sor": 243266,
+  "kiszurve_nem_tag": 971936,
+  "token_ossz": 27105041,
+  "forras_sha256": "35af08e1dfb7d9767130d855568779390d52f89d065d2ae28f3380c318569425",
+  "szarmazas": "tagsag: de-alakok-5.txt; rangsor: korpusz-de-leipzig-szurt.tsv. Csak tipus->szam, korpuszszoveg nem kerul at.",
+  "forrasmegjeloles": "tagsag: CC0 (Wikidata) + CC BY-SA 4.0 (german-nouns, Wiktionary/kaikki) + CC BY-SA 3.0 (UniMorph deu); generalt melleknevalakok (szabaly); rangsor: CC BY (Leipzig)",
+  "forras_reszletek": {
+    "de-alakok-5.txt": "549e46559d4a4323aacc719910b475ed5847d6752675448b1e7e7e6980660ceb",
+    "korpusz-de-leipzig-szurt.tsv": "35af08e1dfb7d9767130d855568779390d52f89d065d2ae28f3380c318569425"
+  },
+  "parancs": "python3 tools/nyelvi_tabla.py --nyelv de --tagsag nyers/nyelvek/de/kimenet5/de-alakok-5.txt --tagsag-alak sima --tagsag-fejlec 0 --rangsor nyers/nyelvek/de/kimenet1/korpusz-de-leipzig-szurt.tsv --ki nyers/nyelvek/de/kimenet5/de-l1.tsv",
+  "sha256": "396cc10a027427901fa38d4db63d8d5a3566dfbc7f7c626a1d4672e488e22f33",
+  "_megjegyzes": "Csak tipus->szam tabla. Szoveg, mondat, peldamondat NEM kerul ide (docs/licencek.md 6.1)."
+}

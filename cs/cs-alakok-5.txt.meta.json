@@ -1,0 +1,22 @@
+{
+  "nev": "cs-alakok-5.txt",
+  "nyelv": "cs",
+  "mit": "a cseh tagsag: A (MULTEXT-East wfl-cs) unio W' (Wikidata cseh lexemak, ASSC-azonositos es ismeretlen forrasu lexemak nelkul) unio U (UniMorph ces) unio K (a ket rangsor-csomagban adatolt alakok); kisbetus, NFC, egyedi. Kezzel irt meta (CSEH ADAT 7, 2026-11-16). Recept: docs/meres/nyelvek/cseh-elore-rogzitve.md 1., 5., 6., 8.",
+  "forras": "nyers/nyelvek/cs/wfl-cs.txt.gz (A: MULTEXT-East V4, sha d25ba8acd1803ae9)",
+  "forras_dic": "nyers/nyelvek/cs/unimorph-ces/ces (U: UniMorph ces, Wikiszotar; a mezo neve a licenckapu miatt, nem hunspell)",
+  "forras_aff": "nyers/nyelvek/_wikidata/latest-lexemes.json.bz2 (W': Wikidata lexemak; a mezo neve a licenckapu miatt, nem hunspell)",
+  "licenc": "CC BY-SA 4.0 (wfl-cs, docs/licencek.md L42; a jogosult irasos igenje: dontesek 6/wf) + CC BY-SA 3.0 (UniMorph ces, L55; a 3.0 4(b) a 4.0 alatti terjesztest engedi) + CC0 (Wikidata, L54) + Leipzig CC BY (K: csak azt donti el, mely korpuszszo tag); a kimenet CC BY-SA 4.0",
+  "forras_reszletek": {
+    "wfl-cs.txt.gz": "d25ba8acd1803ae9fe8606d2692a31a8f49c0ce2f67978cc729b3cfa1af3440e",
+    "unimorph-ces/ces": "4c0a1841a78d45cfa8a3f447943f9c2135baa9c986ae9de0ba704b3d99da5d42",
+    "_wikidata/latest-lexemes.json.bz2": "1911de77d3c6ca2a9de7ed35e18cbc1fdc6df28d556231082effa347f011f879",
+    "cs-alakok-wfl.txt (A)": "207dc2714d2b43495cc7082fd4a7469a9d679aa5915c3036c5c2424558a2fd0a",
+    "unimorph-ces-alakok.txt (U)": "12ed947e376d161cadc95fec9e47fc2dc5c28febba61af0cf927eeeaab20dea8",
+    "wikidata/cs-wikidata-tiszta-alakok.txt (W')": "3b4e4000bbdd9298a2747ea9c523d08e0d825f8eebf3c126b12dd097c6ae473e",
+    "kimenet5/k-alakok.txt (K)": "474826584b5cf05906cc4d53c25f9daed8d22c2a38698e8ea069da9ce9e7ff68",
+    "cs-szurt rangsor-szolistak (K forrasa)": "a ces_wikipedia_2021_1M es ces_newscrawl_2019_1M szurt -words.txt (nyers/nyelvek/cs-szurt/)"
+  },
+  "parancs": "nyers/nyelvek/cs/eszkozok/cs_wikidata_tiszta.py (W'); a tobbi a recept 8. pontja szerint (Python, a lap szovegeben)",
+  "alak": 265667,
+  "sha256": "51f8c9a20b9619f3a03ac796d01089d2613baa5328b59fdc7917408dae1b34c0"
+}

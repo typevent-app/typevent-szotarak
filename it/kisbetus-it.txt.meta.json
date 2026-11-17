@@ -1,0 +1,30 @@
+{
+ "nev": "kisbetus-it.txt",
+ "nyelv": "it",
+ "eszkoz": "tools/nyelvi_kisbetus.py --morphit",
+ "tabla": "nyers/it-l1e10s.tsv",
+ "tabla_sha256": "49299cbd789de3d75f6eeeabb7d319a7b052b5f0ba888275371336ddb819fbba",
+ "morphit": "nyers/nyelvek/it/current_version/morph-it_048.txt",
+ "morphit_sha256": "705da3220c8b7dafa0731f057303da0c474efe248abe6d7ae331d1e470fd55fa",
+ "licenc": "Morph-it! 0.48, CC BY-SA 2.0 (docs/licencek.md L39)",
+ "int_npr_nelkul": 21,
+ "kihagyva": [
+  "go",
+  "aimé",
+  "sigh",
+  "aoh",
+  "ahhhh",
+  "augh",
+  "bèh",
+  "eeeeh",
+  "ihihih",
+  "mhhh",
+  "mmh",
+  "ohh",
+  "ooooh",
+  "ugh"
+ ],
+ "kihagy_indok": "go: a TED-1-en mondat kozben 1 kisbetus, 18 nagybetus; a tobbi: a lipcsei mondatokban kisbetuvel egyszer sem all (nyers/nyelvek/it/nevbit-meres/ted1-int-alakonkent.txt, docs/meres/nevbit/olasz-int-elore-rogzitve.md)",
+ "alak": 7,
+ "sha256": "29e88421561dc19a74acd7ed0cccaf5953f0722c2b50a496b42df6460b4da69b"
+}

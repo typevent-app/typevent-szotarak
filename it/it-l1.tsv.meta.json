@@ -1,0 +1,30 @@
+{
+  "nev": "it-l1",
+  "nyelv": "it",
+  "mit": "NYELVI alaptabla: tagsag ∩ rangsor — tools/nyelvi_tabla.py",
+  "tagsag_forras": "nyers/nyelvek/it/it-alakok.txt (404710 kisbetus alak)",
+  "tagsag_licenc": "CC BY-SA 2.0 vagy LGPL valaszthato (Morph-it! 0.48, readme: dual-licensed; a CC BY-SA 2.0 agat valasztjuk)",
+  "rangsor_forras": "nyers/nyelvek/it/korpusz-it-leipzig.tsv (790752 sor)",
+  "rangsor_licenc": "CC BY 4.0 (Leipzig Corpora Collection)",
+  "szabaly": "a rangsor-sor marad, ha a KISBETUS alakja a tagsagi halmazban van; eredeti kis/nagybetu es szam megy tovabb",
+  "tagsag_alak": "sima",
+  "tagsag_kodolas": "utf-8",
+  "tagsag_fejlec": 0,
+  "szokozos_tetel": "kihagy",
+  "szokozos_kihagyva": 2,
+  "nyers_sor": 172931,
+  "osszevont_tipus": 122778,
+  "nagybetus_sor": 54263,
+  "kiszurve_nem_tag": 617821,
+  "token_ossz": 53051095,
+  "forras_sha256": "6a1b9b57ede603084a0c2a3b8ae0fc2d3383d3808d5d2f02e81b12ae5587f2b1",
+  "szarmazas": "tagsag: it-alakok.txt; rangsor: korpusz-it-leipzig.tsv. Csak tipus->szam, korpuszszoveg nem kerul at.",
+  "forrasmegjeloles": "tagsag: CC BY-SA 2.0 vagy LGPL valaszthato (Morph-it! 0.48, readme: dual-licensed; a CC BY-SA 2.0 agat valasztjuk); rangsor: CC BY 4.0 (Leipzig Corpora Collection)",
+  "forras_reszletek": {
+    "it-alakok.txt": "72e5d4750176086814347d0aa58bb72e65a154840ff6b3de049514d131f5d9d8",
+    "korpusz-it-leipzig.tsv": "6a1b9b57ede603084a0c2a3b8ae0fc2d3383d3808d5d2f02e81b12ae5587f2b1"
+  },
+  "parancs": "python3 tools/nyelvi_tabla.py --nyelv it --tagsag nyers/nyelvek/it/it-alakok.txt --tagsag-alak sima --tagsag-fejlec 0 --rangsor nyers/nyelvek/it/korpusz-it-leipzig.tsv --ki nyers/it-l1.tsv",
+  "sha256": "9b487fb53b6372c5900b6e83cf62d8277c49c3cdc0fd6cab362d105ac53696b1",
+  "_megjegyzes": "Csak tipus->szam tabla. Szoveg, mondat, peldamondat NEM kerul ide (docs/licencek.md 6.1)."
+}

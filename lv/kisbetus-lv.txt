@@ -1,0 +1,16 @@
+# KISBETŰS ALAKOK (lv) — tools/nyelvi_kisbetus.py jelöltjei, szűkítve: csak kisbetűs Tēzaurs-alak
+# forrás: kisbetus-x50-jelolt.txt; előre rögzítve: docs/meres/nyelvek/lett-elore-rogzitve.md 2. pont
+# A sor: alak  # mérce: kisbetűs / nagybetűs mondat közben
+jāpiebilst  # 33 / 0
+balsosim  # 2 / 0
+kriminālā  # 7 / 0
+atgādinām  # 42 / 0
+grozījums  # 14 / 0
+ceturtdiena  # 4 / 0
+apsveicam  # 2 / 0
+iepazīsti  # 2 / 1
+jāpiezīmē  # 8 / 0
+pūt  # 3 / 0
+taujāts  # 9 / 0
+vārdadienas  # 0 / 0
+atgādināsim  # 2 / 0

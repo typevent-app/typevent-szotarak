@@ -1,0 +1,21 @@
+{
+  "nev": "el-alakok.txt",
+  "nyelv": "el",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/el/elspell-github-2026-11-12/el.wl (sha f911c0deb56886dc)",
+  "forras_aff": "nyers/nyelvek/el/elspell-github-2026-11-12/myspell/el_GR.aff (sha f5b7731de065123d)",
+  "licenc": "MPL-1.1 (elspell; a harmas licencbol valasztva, dontesek 6/vz, 6/wb) - tagsag",
+  "kodolas": "iso8859-7",
+  "flag_mod": "single",
+  "to": 828806,
+  "alak": 828806,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "f911c0deb56886dcc6d5755ba042b87fa23e8f6eef6391eb9db6f707b13101b1",
+  "forras_epites": {
+    "nyers/nyelvek/el/epites/el_GR.dic": "e5b9b9c2cf05bbc5 (= sorszam + el.wl, iconv iso-8859-7; a Makefile 9-11., 15-16. sora kezzel; bajtra = a 0.9 zip el_GR.dic-je)",
+    "nyers/nyelvek/el/epites/el_GR.aff": "40a62bcb2a897dc9 (= myspell/el_GR.aff, iconv iso-8859-7)"
+  },
+  "_megjegyzes": "GOROG ADAT 5 (2026-11-16): a forras_dic/forras_aff a naplozott letoltott fajlokra mutat (letoltes-naplo.tsv); a kibontas az epites/ alatti, kiadasi alakra hozott parbol futott (forras_epites)."
+}

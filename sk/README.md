@@ -25,7 +25,7 @@ The Mozilla Public License 2.0 asks that the files used and the files made from 
 | `sk.typd` | 12648448 | `76c7cddba0b3eaf2cfbb1f0c3be73eee5a3ddcfe1efb73f3993bb72c4e44d150` | the dictionary file exactly as it ships in the app (binary) |
 | `sk.typd.meta.json` | 1225 | `c51eb25e6882328ebe8ee540f3452140d0e57dcd1c24860badf979114552598f` | build record of the file above (JSON) |
 
-`sk.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/sk.typd` in TypEvent, commit `a3b1e25c`).
+`sk.typd` is byte-identical to the file in the app (`TypEvent/TypEventExtension/Szotarak/sk.typd` in TypEvent, commit `27f4b788`).
 
 ## Recipe
 

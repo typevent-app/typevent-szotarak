@@ -1,0 +1,11 @@
+# KISBETŰS ALAKOK (it) — forrás: Morph-it! 0.48, INT (indulatszó) címke; tools/nyelvi_kisbetus.py --morphit
+# szabály: tulajdonnév-bites alak, amelynek a Morph-it!-ben VAN INT és NINCS NPR olvasata.
+# kihagyva: go, aimé, sigh, aoh, ahhhh, augh, bèh, eeeeh, ihihih, mhhh, mmh, ohh, ooooh, ugh — go: a TED-1-en mondat kozben 1 kisbetus, 18 nagybetus; a tobbi: a lipcsei mondatokban kisbetuvel egyszer sem all (nyers/nyelvek/it/nevbit-meres/ted1-int-alakonkent.txt, docs/meres/nevbit/olasz-int-elore-rogzitve.md)
+# A sor: alak  # hely a táblában
+ciao  # 6095
+ah  # 12580
+oh  # 13090
+yeah  # 56315
+ooh  # 68324
+deh  # 80064
+vabbeh  # 86527
