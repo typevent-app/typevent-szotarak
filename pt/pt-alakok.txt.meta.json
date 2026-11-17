@@ -1,0 +1,16 @@
+{
+  "nev": "pt-alakok.txt",
+  "nyelv": "pt",
+  "mit": "hunspell affix-kibontas — tools/nyelvi_kibontas.py",
+  "forras_dic": "nyers/nyelvek/pt/hunspell/hunspell-pt_PT-20251001/pt_PT.dic (sha e29ba2d7aa8a2ad4)",
+  "forras_aff": "nyers/nyelvek/pt/hunspell/hunspell-pt_PT-20251001/pt_PT.aff (sha 975a209fcc892cb3)",
+  "licenc": "MPL-1.1 (Natura; a harmas licencbol valasztva, a szerzo irasos igene szerint, dontesek 6/wf, 2026-11-13) - csak epitesi szuro",
+  "kodolas": "utf-8",
+  "flag_mod": "single",
+  "to": 44476,
+  "alak": 1041995,
+  "nosuggest": 0,
+  "onlyincompound_kihagyva": 0,
+  "nem_valositjuk_meg": "COMPOUNDRULE, REP, TRY, ICONV, ketszintu toldalekolas",
+  "sha256": "a2c36bc5a9ebfd57ec24579703ba07eaf250f0a039ccbd714c9aa16c237bfa9d"
+}

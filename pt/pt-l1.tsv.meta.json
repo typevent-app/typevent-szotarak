@@ -1,0 +1,30 @@
+{
+  "nev": "pt-l1",
+  "nyelv": "pt",
+  "mit": "NYELVI alaptabla: tagsag ∩ rangsor — tools/nyelvi_tabla.py",
+  "tagsag_forras": "nyers/nyelvek/pt/pt-alakok.txt (1041682 kisbetus alak)",
+  "tagsag_licenc": "GPL-2.0 / LGPL-2.1 / MPL-1.1 (Natura; a valasztas nyitott) - csak epitesi szuro",
+  "rangsor_forras": "nyers/nyelvek/pt/kimenet1/korpusz-pt-leipzig-szurt.tsv (470089 sor)",
+  "rangsor_licenc": "CC BY 4.0 (Leipzig Corpora Collection)",
+  "szabaly": "a rangsor-sor marad, ha a KISBETUS alakja a tagsagi halmazban van; eredeti kis/nagybetu es szam megy tovabb",
+  "tagsag_alak": "sima",
+  "tagsag_kodolas": "utf-8",
+  "tagsag_fejlec": 0,
+  "szokozos_tetel": "kihagy",
+  "szokozos_kihagyva": 0,
+  "nyers_sor": 172277,
+  "osszevont_tipus": 122619,
+  "nagybetus_sor": 53488,
+  "kiszurve_nem_tag": 297812,
+  "token_ossz": 37605918,
+  "forras_sha256": "634b10f01cb6c9b59153fad590d1e5033544f1d9ff73181f442aa102a21fad7d",
+  "szarmazas": "tagsag: pt-alakok.txt; rangsor: korpusz-pt-leipzig-szurt.tsv. Csak tipus->szam, korpuszszoveg nem kerul at.",
+  "forrasmegjeloles": "tagsag: GPL-2.0 / LGPL-2.1 / MPL-1.1 (Natura; a valasztas nyitott) - csak epitesi szuro; rangsor: CC BY 4.0 (Leipzig Corpora Collection)",
+  "forras_reszletek": {
+    "pt-alakok.txt": "a2c36bc5a9ebfd57ec24579703ba07eaf250f0a039ccbd714c9aa16c237bfa9d",
+    "korpusz-pt-leipzig-szurt.tsv": "634b10f01cb6c9b59153fad590d1e5033544f1d9ff73181f442aa102a21fad7d"
+  },
+  "parancs": "python3 tools/nyelvi_tabla.py --nyelv pt --tagsag nyers/nyelvek/pt/pt-alakok.txt --tagsag-alak sima --tagsag-fejlec 0 --rangsor nyers/nyelvek/pt/kimenet1/korpusz-pt-leipzig-szurt.tsv --ki nyers/nyelvek/pt/kimenet1/pt-l1.tsv",
+  "sha256": "41fd702617f9a058f3e6f1869a0ae307b84b2e34175726bbf14cedb8e7900f4d",
+  "_megjegyzes": "Csak tipus->szam tabla. Szoveg, mondat, peldamondat NEM kerul ide (docs/licencek.md 6.1)."
+}
